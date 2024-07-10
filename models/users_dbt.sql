@@ -1,0 +1,1 @@
+select *,age + 10 as warranty from db_ecomm.sc_ecomm.users
